@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-gtm-setup"
+    }
+  },
+  "defaultProject": "angular-gtm-setup",
+  "cli": {
+    "analytics": false
+  }
 }
